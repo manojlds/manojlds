@@ -5,12 +5,14 @@ I am a Principal Engineer at Avalara.
 
 I primarily work on Machine Learning, Data Pipeline and related work on automation, workflows and tooling. I code in Scala, Python and Javascript.
 
-I am running a podcast 🎙 at
+I am running a podcast 🎙 at:
 
 🔊 https://anchor.fm/stacktoheap
+
 🎥 https://www.youtube.com/user/manojlds
 
-I am reachable on
+I am reachable on:
 
 Twitter - https://twitter.com/manojlds
+
 LinkedIn - https://www.linkedin.com/in/manojlds/
