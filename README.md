@@ -3,14 +3,16 @@
 <!--
 **manojlds/manojlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Principal Engineer at Avalara.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily work on Machine Learning, Data Pipeline and related work on automation, workflows and tooling. I code in Scala, Python and Javascript.
+
+I am running a podcast 🎙 at
+
+🔊 https://anchor.fm/stacktoheap
+🎥 https://www.youtube.com/user/manojlds
+
+I am reachable on
+
+Twitter - https://twitter.com/manojlds
+LinkedIn - https://www.linkedin.com/in/manojlds/
